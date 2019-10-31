@@ -1,0 +1,12 @@
+<map id="souffle::ExplainProvenance::ExplainProvenance" name="souffle::ExplainProvenance::ExplainProvenance">
+<area shape="rect" id="node2" href="$classsouffle_1_1_explain_provenance.html#a340ed47f995b5172ab9f346babc4bfd7" title="souffle::ExplainProvenance\l::explain" alt="" coords="263,5,461,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_explain_provenance.html#a79f3bc16ad57361ed2590509f579d169" title="souffle::ExplainProvenance\l::explainNegation" alt="" coords="263,71,461,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_explain_provenance.html#a69f6e64a87fdd6e392c7d29a50c72556" title="souffle::ExplainProvenance\l::explainNegationGetVariables" alt="" coords="252,136,472,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_explain_provenance.html#a64e3165acb1b13e24e5f1974d8c29cf2" title="souffle::ExplainProvenance\l::explainSubproof" alt="" coords="263,201,461,243"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_explain_provenance.html#aadcec6224703d8b59f7743ce97bf7f03" title="souffle::ExplainProvenance\l::getRule" alt="" coords="263,267,461,308"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_explain_provenance.html#a03edda48b44a26a3e989fff92f5c497d" title="souffle::ExplainProvenance\l::getRules" alt="" coords="263,332,461,373"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_explain_provenance.html#af1571b104107b98bf2a2d73b984709f1" title="souffle::ExplainProvenance\l::measureRelation" alt="" coords="263,397,461,439"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_explain_provenance.html#a10fa5f6b1d6fac35938c21d9ee38c560" title="souffle::ExplainProvenance\l::printRulesJSON" alt="" coords="263,463,461,504"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_explain_provenance.html#ad4c8f25e1af26cca923b232b0ce3286d" title="souffle::ExplainProvenance\l::setup" alt="" coords="263,528,461,569"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_explain_provenance.html#af7e6836e8b236fb6561504ef441782db" title="souffle::ExplainProvenance\l::~ExplainProvenance" alt="" coords="263,593,461,635"/>
+</map>

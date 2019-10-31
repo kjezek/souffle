@@ -1,0 +1,6 @@
+<map id="souffle::RamFact::equal" name="souffle::RamFact::equal">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_relation_statement.html#ae20c6bb019e4947e36a6c35a0766cbc8" title="Equality check for two RAM nodes. " alt="" coords="228,5,453,47"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#abb203058de4f353277b3c51d0346d9e5" title="A function testing whether two vector of pointers are referencing to equivalent targets. " alt="" coords="259,71,422,98"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_relation_statement.html#a77d30eb0482a72bef77c865a91d14871" title="Get RAM relation. " alt="" coords="501,5,727,47"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#ab0083e5ad86e88ff726ea4e3c7ef23c1" title="A function testing whether two vectors are equal (same vector of elements). " alt="" coords="559,71,669,98"/>
+</map>

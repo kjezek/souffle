@@ -1,0 +1,12 @@
+<map id="souffle::BddBddBTranslator::visitClause" name="souffle::BddBddBTranslator::visitClause">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_clause.html#a7c1b301887468c1b8ceb1655f5ca51f1" title="Obtains a copy of the internally maintained body literals. " alt="" coords="333,5,471,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="333,71,471,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_clause.html#a940e3137d96293fbc14dddceefd0bec0" title="Return true if the clause is a fact. " alt="" coords="333,136,471,177"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="353,202,451,229"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="339,253,465,279"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_unsupported_construct_exception.html#ab812ead9bc877acc64a35d4bad8ee60b" title="souffle::UnsupportedConstruct\lException::UnsupportedConstructException" alt="" coords="251,304,553,345"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_clause.html#ac48c0e4d469200abc80eb46e1dd5cf0b" title="Return the number of elements in the body of the Clause. " alt="" coords="616,107,755,148"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="601,173,769,199"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="817,165,985,207"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_node.html#a3726392849b2a07142ba13bbd5fb16d2" title="Obtain a list of all embedded AST child nodes. " alt="" coords="1033,165,1224,207"/>
+</map>

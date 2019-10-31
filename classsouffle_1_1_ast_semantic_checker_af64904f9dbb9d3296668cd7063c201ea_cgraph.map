@@ -1,0 +1,14 @@
+<map id="souffle::AstSemanticChecker::checkFact" name="souffle::AstSemanticChecker::checkFact">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_semantic_checker.html#a6022eb7fde7632c8c20fe36b1ddcca3f" title="souffle::AstSemanticChecker\l::checkConstant" alt="" coords="263,64,472,105"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="298,129,437,171"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_program.html#a6a4814327ce4603e7e332b21188495e1" title="Find and return the relation in the program given its name. " alt="" coords="292,195,443,236"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_clause.html#a940e3137d96293fbc14dddceefd0bec0" title="Return true if the clause is a fact. " alt="" coords="298,260,437,301"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_error_report.html#a699dc9231cef74ac54573e3c79de7143" title="Adds an error with the given message and location. " alt="" coords="548,5,695,47"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_node.html#ae84bf084ceca6ac36dc4be406f42870f" title="Return source location of the AstNode. " alt="" coords="521,71,721,98"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#a2d324369b5fc672d6cde86cb6c20e304" title="souffle::isConstantArithExpr" alt="" coords="520,122,723,149"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_diagnostic_message.html#ad3fd6ab90856d9cdd9bbba3140440362" title="souffle::DiagnosticMessage\l::DiagnosticMessage" alt="" coords="771,5,971,47"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_clause.html#ac48c0e4d469200abc80eb46e1dd5cf0b" title="Return the number of elements in the body of the Clause. " alt="" coords="552,231,691,272"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="537,297,705,323"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="787,289,955,331"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ast_node.html#a3726392849b2a07142ba13bbd5fb16d2" title="Obtain a list of all embedded AST child nodes. " alt="" coords="1019,289,1209,331"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="souffle::ram::index_utils::TrieIndex::partition" name="souffle::ram::index_utils::TrieIndex::partition">
+<area shape="rect" id="node2" href="$namespacesouffle.html#acea8a37cc1681f657054f3b30af55003" title="A utility function enabling the construction of ranges without explicitly specifying the iterator typ..." alt="" coords="243,5,397,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_trie.html#a0f08525c20a66b4551beeb67b582ea55" title="Computes a partition of an approximate number of chunks of the content of this trie. " alt="" coords="240,56,400,83"/>
+</map>

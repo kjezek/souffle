@@ -1,0 +1,8 @@
+<map id="souffle::LogicbloxConverter::visitRelation" name="souffle::LogicbloxConverter::visitRelation">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_relation.html#ae27800d5845e8ac6df95b20bfc51aecf" title="Obtains a list of the contained attributes. " alt="" coords="270,5,418,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_relation.html#aa3d9c18d8e03ea29537f980553c28777" title="Return the name of the relation. " alt="" coords="270,71,418,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_i_o_type.html#a802a8fbac8c20b25f4b85acb23c26bc0" title="souffle::IOType::isInput" alt="" coords="259,137,429,163"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_i_o_type.html#af6eeaf8c4708b6f593addcc6f3604518" title="souffle::IOType::isOutput" alt="" coords="253,187,435,214"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="295,238,393,265"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="483,13,629,39"/>
+</map>

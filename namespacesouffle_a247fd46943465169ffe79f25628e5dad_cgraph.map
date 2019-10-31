@@ -1,0 +1,13 @@
+<map id="souffle::getGroundedTerms" name="souffle::getGroundedTerms">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_atom.html#a9c726c597d7921245dd97dcc72b8aeed" title="Provides access to the list of arguments of this atom. " alt="" coords="251,5,481,32"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_intrinsic_functor.html#a734abfa8e190187dbc66c07ee37be36c" title="souffle::AstIntrinsicFunctor\l::getArguments" alt="" coords="269,57,463,98"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_user_defined_functor.html#ac13c06b6c92696d1d3b444245632d6c3" title="get arguments " alt="" coords="255,122,477,163"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_record_init.html#a53137eea7127b4445f303277424de82e" title="souffle::AstRecordInit\l::getArguments" alt="" coords="286,187,446,229"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_negation.html#a0737c379dac1c350accecb1e2301698c" title="Returns the nested atom as the referenced atom. " alt="" coords="289,253,443,294"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="297,318,435,359"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_binary_constraint.html#a72b9e10473e1748d720bbf68a3e7f471" title="Return LHS argument. " alt="" coords="264,383,468,425"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_binary_constraint.html#aec8d30b8684b3a2f5f715204999776a0" title="Return binary operator. " alt="" coords="264,449,468,490"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_binary_constraint.html#a61055c91c04bcbe4d03873044c6bf4b8" title="Return RHS argument. " alt="" coords="264,514,468,555"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ast_type_cast.html#a4fe729dc92cd0e38102249123acbc317" title="souffle::AstTypeCast\l::getValue" alt="" coords="289,579,443,621"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="529,97,676,124"/>
+</map>

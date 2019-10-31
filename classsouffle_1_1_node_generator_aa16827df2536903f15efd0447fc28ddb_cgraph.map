@@ -1,0 +1,9 @@
+<map id="souffle::NodeGenerator::visitExistenceCheck" name="souffle::NodeGenerator::visitExistenceCheck">
+<area shape="rect" id="node2" href="$classsouffle_1_1_node_generator.html#adf4918592473b561987de722d422b1f6" title="Encode and return the relation id. " alt="" coords="251,5,424,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_node_generator.html#ae5998d60cfa261b3365b92f142b80d10" title="Encode and return the View id of an operation. " alt="" coords="251,71,424,112"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_abstract_existence_check.html#aec9920ffd29371b7d99eb3429f725172" title="Get relation. " alt="" coords="227,136,448,177"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ram_abstract_existence_check.html#a55563602127b691d20fe83a2731f2aaa" title="Get arguments of the tuple/pattern. " alt="" coords="227,201,448,243"/>
+<area shape="rect" id="node8" href="$structsouffle_1_1_ram_visitor.html#a2313337e10a8cad47d87dbc46f9efac9" title="The main entry for a visit process conducting the dispatching of a visit to the various sub&#45;types of ..." alt="" coords="228,267,447,323"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_node_generator.html#af575fa077e975e36f3f0fe216fcbbfd9" title="Get a valid relation id for encoding. " alt="" coords="496,5,669,47"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_node_generator.html#ab2d2abaafc36c12c125d50c75237383d" title="Get a valid view id for encoding. " alt="" coords="496,71,669,112"/>
+</map>

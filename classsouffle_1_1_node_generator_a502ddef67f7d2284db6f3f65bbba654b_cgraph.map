@@ -1,0 +1,8 @@
+<map id="souffle::NodeGenerator::visitScan" name="souffle::NodeGenerator::visitScan">
+<area shape="rect" id="node2" href="$classsouffle_1_1_node_generator.html#adf4918592473b561987de722d422b1f6" title="Encode and return the relation id. " alt="" coords="251,5,424,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_relation_operation.html#a499c5f7c9562a0cfe16ee3668e19ca88" title="Get search relation. " alt="" coords="227,71,448,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_node_generator.html#afb111d408a8fa0d436e0afcd2ec0ddcf" title="souffle::NodeGenerator\l::visitTupleOperation" alt="" coords="251,136,424,177"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_node_generator.html#af575fa077e975e36f3f0fe216fcbbfd9" title="Get a valid relation id for encoding. " alt="" coords="519,5,692,47"/>
+<area shape="rect" id="node6" href="$structsouffle_1_1_ram_visitor.html#a2313337e10a8cad47d87dbc46f9efac9" title="The main entry for a visit process conducting the dispatching of a visit to the various sub&#45;types of ..." alt="" coords="496,99,715,155"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ram_nested_operation.html#afdbbe7da4e005809c1ca1531b06f65f0" title="Get nested operation. " alt="" coords="498,180,713,221"/>
+</map>

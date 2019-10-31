@@ -1,0 +1,7 @@
+<map id="souffle::RamProgram::clone" name="souffle::RamProgram::clone">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_node.html#ae0434e9ab1012210478fa5cc4be181e4" title="Apply the mapper to all child nodes. " alt="" coords="241,5,424,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_relation.html#aa51f56890b280dd3a368ae1843fc85fb" title="Create a clone (i.e. " alt="" coords="254,57,411,98"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a486f7f441cd86b3a5baedd7948dba363" title="Creates a node mapper based on a corresponding lambda expression. " alt="" coords="212,123,453,149"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_program.html#ad9b55aed7491c5941c0795f2fed824cd" title="souffle::RamProgram\l::RamProgram" alt="" coords="253,174,412,215"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_relation.html#aa1256359c350281aaeee2be8e72bd360" title="souffle::RamRelation\l::RamRelation" alt="" coords="501,57,659,98"/>
+</map>

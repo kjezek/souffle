@@ -1,0 +1,7 @@
+<map id="souffle::NodeGenerator::visitLogRelationTimer" name="souffle::NodeGenerator::visitLogRelationTimer">
+<area shape="rect" id="node2" href="$classsouffle_1_1_node_generator.html#adf4918592473b561987de722d422b1f6" title="Encode and return the relation id. " alt="" coords="253,5,426,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_relation_statement.html#a77d30eb0482a72bef77c865a91d14871" title="Get RAM relation. " alt="" coords="227,71,452,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_abstract_log.html#aaa7a5a256e48154e26340b4fac456990" title="Get logging statement. " alt="" coords="249,136,430,177"/>
+<area shape="rect" id="node6" href="$structsouffle_1_1_ram_visitor.html#a2313337e10a8cad47d87dbc46f9efac9" title="The main entry for a visit process conducting the dispatching of a visit to the various sub&#45;types of ..." alt="" coords="230,202,449,258"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_node_generator.html#af575fa077e975e36f3f0fe216fcbbfd9" title="Get a valid relation id for encoding. " alt="" coords="500,5,673,47"/>
+</map>

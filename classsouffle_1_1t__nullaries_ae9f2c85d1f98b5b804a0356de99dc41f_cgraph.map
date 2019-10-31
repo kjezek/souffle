@@ -1,0 +1,5 @@
+<map id="souffle::t_nullaries::insertAll" name="souffle::t_nullaries::insertAll">
+<area shape="rect" id="node2" href="$classsouffle_1_1_relation_wrapper.html#a867b7d9f707f39ea73841ac8ac3d8b5a" title="Insert a new tuple into the relation. " alt="" coords="196,23,377,65"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1tuple.html#a0ab9c3b37d368d4372e7e27fdbf20ee6" title="Get the reference to the relation to which the tuple belongs. " alt="" coords="425,5,615,32"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1tuple.html#ac1e884fd470e139ca8223af684f379bc" title="Return the number of elements in the tuple. " alt="" coords="449,56,591,83"/>
+</map>

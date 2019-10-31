@@ -1,0 +1,7 @@
+<map id="souffle::AstClause::print" name="souffle::AstClause::print">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_clause.html#a7c1b301887468c1b8ceb1655f5ca51f1" title="Obtains a copy of the internally maintained body literals. " alt="" coords="216,5,355,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_clause.html#ac48c0e4d469200abc80eb46e1dd5cf0b" title="Return the number of elements in the body of the Clause. " alt="" coords="216,71,355,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_clause.html#aa943423c45971e70c837da5b88c8fc04" title="Obtains the execution plan associated to this clause or null if there is none. " alt="" coords="214,136,357,177"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="236,202,335,229"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_execution_plan.html#afd1441312caa998c880e6150bf464848" title="Output to a given output stream. " alt="" coords="192,253,379,295"/>
+</map>
