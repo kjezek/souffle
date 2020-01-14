@@ -134,3 +134,5 @@ DIFF=$(echo "$END - $START" | bc)
 echo "Total time: $DIFF (Sec.nanos)"
 
 /bin/bash
+#echo "$DIFF\n" >> times.csv
+
